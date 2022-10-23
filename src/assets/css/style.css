@@ -1,0 +1,9 @@
+.background{
+    background-color: rgb(128, 26, 223);
+}
+.mybtn{
+    border: none;
+}
+.mybtn:hover{
+   border: none;
+}
