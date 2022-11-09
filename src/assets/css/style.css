@@ -6,4 +6,8 @@
 }
 .mybtn:hover{
    border: none;
+   
+}
+.formbtn:hover{
+    background-color: rgb(97, 11, 179);
 }

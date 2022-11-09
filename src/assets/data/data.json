@@ -1,9 +1,12 @@
 {
-    "maincategory": [
-        {
-            "id": 0,
-            "name": "Test"
-            
-        }
-    ]
+  "maincategory": [
+    {
+      "id": 1,
+      "name": "Male"
+    },
+    {
+      "name": "female",
+      "id": 2
+    }
+  ]
 }
